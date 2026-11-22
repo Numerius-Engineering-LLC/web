@@ -4,7 +4,7 @@ description: >-
   Consulting-led electronics product development across hardware, software,
   rapid prototyping, and application development.
 baseurl: "/web"
-url: "https://numerius-engineering.github.io"
+url: "https://numerius-engineering-llc.github.io"
 permalink: pretty
 markdown: kramdown
 
