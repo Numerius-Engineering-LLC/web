@@ -1,6 +1,6 @@
 ---
 title: GPS Clock
-description: A GPS-disciplined eight-digit clock with alarm, built on a custom PCB from an earlier outreach project, with its firmware rewritten in Rust.
+description: A GPS-disciplined eight-digit clock with alarm, built on a custom PCB from an earlier outreach project that also hosted an alarm clock and a timed scavenger-hunt game.
 permalink: /portfolio/gps-clock/
 thumbnail: /assets/portfolio/gps-clock/cover.jpg
 tags:
@@ -33,8 +33,8 @@ featured: true
 
 <section class="section-block">
   <div class="section-heading">
-    <p class="eyebrow">Origins</p>
-    <h2>Built on the BYU 7-Segment Board.</h2>
+    <p class="eyebrow">Hardware family</p>
+    <h2>One board, three projects.</h2>
   </div>
   <div class="gallery-grid">
     <article class="gallery-item">
@@ -48,6 +48,16 @@ featured: true
       <p>The GPS Clock is a sequel to an educational outreach project for Brigham Young University's Smart Antenna Systems Group. That project was a custom Altium-designed board combining an Arduino Nano, a MAX7221 driving eight seven-segment digits, six buttons, a switch, and a buzzer, with firmware for a tuned free-running alarm clock.</p>
       <p>The same board came back with a GPS module on its spare header pins, replacing a tuned timer with satellite timing, and with the firmware rewritten in Rust.</p>
       <p><a href="https://github.com/jwkunz/BYU7SegBoard">View the original board and firmware on GitHub</a></p>
+    </article>
+    <article class="gallery-item">
+      <div class="gallery-meta">
+        <span class="tag">Arduino</span>
+        <span class="tag">Game</span>
+        <span class="tag">Countdown timer</span>
+      </div>
+      <h2><a href="https://github.com/jwkunz/Anniversery_Game">Anniversary Game</a></h2>
+      <p>The same board also ran a handheld timed scavenger hunt built as an anniversary surprise. The eight digits show a clue for each stop, a countdown times each leg, and a buzzer and song mark time running out and the finish. The firmware grew from the board's alarm clock, with the clock counting down and a game state machine in place of the alarm interface.</p>
+      <p><a href="https://github.com/jwkunz/Anniversery_Game">View the game firmware on GitHub</a></p>
     </article>
   </div>
 </section>
