@@ -201,5 +201,15 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
       <p>A structured class for learning Python and networking.</p>
       <p><a href="https://github.com/jwkunz/Radiant_Pupils">View on GitHub</a></p>
     </article>
+    <article class="gallery-item">
+      <div class="gallery-meta">
+        <span class="tag">Python</span>
+        <span class="tag">PyQt6</span>
+        <span class="tag">Chess</span>
+      </div>
+      <h2><a href="https://github.com/jwkunz/Stocky_Chess">Stocky Chess</a></h2>
+      <p>A desktop chess program with a PyQt6 interface and its own move generator. Play against Stockfish at an adjustable skill level and search depth, play another person, or watch two engines play each other. It has chess clocks with increments, move history, FEN import, and a material count.</p>
+      <p><a href="https://github.com/jwkunz/Stocky_Chess">View on GitHub</a></p>
+    </article>
   </div>
 </section>
