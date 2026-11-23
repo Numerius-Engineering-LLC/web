@@ -12,7 +12,7 @@ featured: true
 ---
 
 <section class="page-header">
-  <p class="eyebrow">Design Portfolio</p>
+  <p class="eyebrow">Hardware Projects</p>
   <h1>Homecoming Fundraiser Table</h1>
   <p class="lead">A table-and-bench set I designed in high school to be cheap to build, so it could be made in quantity and sold to raise money for homecoming.</p>
 </section>

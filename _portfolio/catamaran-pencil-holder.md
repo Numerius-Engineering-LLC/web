@@ -12,7 +12,7 @@ featured: true
 ---
 
 <section class="page-header">
-  <p class="eyebrow">Design Portfolio</p>
+  <p class="eyebrow">Hardware Projects</p>
   <h1>Catamaran Pencil Holder</h1>
   <p class="lead">A sailboat-themed desk organizer designed in CAD and 3D printed as a gift for my dad, and the first product I designed and printed entirely myself.</p>
 </section>

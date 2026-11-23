@@ -12,7 +12,7 @@ featured: true
 ---
 
 <section class="page-header">
-  <p class="eyebrow">Design Portfolio</p>
+  <p class="eyebrow">Hardware Projects</p>
   <h1>GPS Clock</h1>
   <p class="lead">An eight-digit seven-segment clock that takes its time from GPS satellites, built on a custom board that started life as a university outreach project.</p>
 </section>

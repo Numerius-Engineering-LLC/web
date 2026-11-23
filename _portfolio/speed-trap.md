@@ -12,7 +12,7 @@ featured: true
 ---
 
 <section class="page-header">
-  <p class="eyebrow">Design Portfolio</p>
+  <p class="eyebrow">Hardware Projects</p>
   <h1>Speed Trap</h1>
   <p class="lead">A compact optical speed trap that times an object passing between two light beams and shows its speed on an ESP32 board's built-in display.</p>
 </section>

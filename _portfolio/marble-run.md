@@ -12,7 +12,7 @@ featured: true
 ---
 
 <section class="page-header">
-  <p class="eyebrow">Design Portfolio</p>
+  <p class="eyebrow">Hardware Projects</p>
   <h1>Marble Run Toy</h1>
   <p class="lead">A child's marble run built from 10 interlocking pieces, designed in CAD and adapted for injection molding. It was my first sophisticated CAD project.</p>
 </section>

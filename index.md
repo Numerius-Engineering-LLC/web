@@ -58,7 +58,7 @@ description: Consulting-led electronics design, product development, and softwar
       <span>Consulting, product development, prototyping, fabrication, and application work.</span>
     </a>
     <a class="info-card" href="{{ '/portfolio/' | relative_url }}">
-      <strong>Design Portfolio</strong>
+      <strong>Hardware Projects</strong>
       <span>An image-first gallery of past project work and build notes.</span>
     </a>
     <a class="info-card" href="{{ '/apps/' | relative_url }}">
@@ -66,7 +66,7 @@ description: Consulting-led electronics design, product development, and softwar
       <span>Access the portal to web applications developed by Numerius Engineering.</span>
     </a>
     <a class="info-card" href="{{ '/other-software/' | relative_url }}">
-      <strong>Other Software</strong>
+      <strong>Software Projects</strong>
       <span>Desktop, mobile, and embedded software beyond the web apps.</span>
     </a>
     <a class="info-card" href="{{ '/about/' | relative_url }}">

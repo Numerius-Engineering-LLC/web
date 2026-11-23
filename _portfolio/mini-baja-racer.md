@@ -12,7 +12,7 @@ featured: true
 ---
 
 <section class="page-header">
-  <p class="eyebrow">Design Portfolio</p>
+  <p class="eyebrow">Hardware Projects</p>
   <h1>Mini Baja Racer</h1>
   <p class="lead">A single-seat off-road racer powered by a lawn mower engine, built by a student team for the SAE Mini Baja competition. I led the team.</p>
 </section>

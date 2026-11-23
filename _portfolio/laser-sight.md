@@ -12,7 +12,7 @@ featured: false
 ---
 
 <section class="page-header">
-  <p class="eyebrow">Design Portfolio</p>
+  <p class="eyebrow">Hardware Projects</p>
   <h1>Laser Sight Mount</h1>
   <p class="lead">A lighthearted project: a 3D-printed mount that holds a green laser module on top of a toy blaster.</p>
 </section>

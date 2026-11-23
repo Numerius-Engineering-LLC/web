@@ -12,7 +12,7 @@ featured: true
 ---
 
 <section class="page-header">
-  <p class="eyebrow">Design Portfolio</p>
+  <p class="eyebrow">Hardware Projects</p>
   <h1>Backyard Playhouse</h1>
   <p class="lead">A backyard playhouse for my kids, designed in detail as a 3D CAD model and then built from lumber to that design.</p>
 </section>

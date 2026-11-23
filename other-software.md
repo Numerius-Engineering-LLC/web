@@ -1,11 +1,11 @@
 ---
-title: Other Software
+title: Software Projects
 description: Software projects by Numerius Engineering LLC beyond the browser-based web apps, organized by language and framework, with links to each GitHub repository.
 ---
 
 <section class="page-header">
-  <p class="eyebrow">Other Software</p>
-  <h1>Other software.</h1>
+  <p class="eyebrow">Software Projects</p>
+  <h1>Software projects.</h1>
   <p class="lead">Libraries, tools, embedded projects, and native apps that are not hosted as web apps, organized by programming language or framework. Each entry links to its GitHub repository.</p>
 </section>
 
@@ -112,6 +112,16 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
       <h2><a href="https://github.com/jwkunz/pynq-panther">PYNQ Panther</a></h2>
       <p>A Raspberry Pi-style graphical desktop for the stock PYNQ-Z2: DRM/KMS and ALSA kernel modules, a Rust session, a one-command offline installer, USB input, and a pink-and-black fluxbox theme. No custom bitstream.</p>
       <p><a href="https://github.com/jwkunz/pynq-panther">View on GitHub</a></p>
+    </article>
+    <article class="gallery-item">
+      <div class="gallery-meta">
+        <span class="tag">C++</span>
+        <span class="tag">Arduino</span>
+        <span class="tag">Embedded</span>
+      </div>
+      <h2><a href="https://github.com/jwkunz/VariousArduinoProjects">Various Arduino Projects</a></h2>
+      <p>A collection of Arduino sketches from 2016 onward, organized by subject: seven-segment clocks, LED and NeoPixel displays, servo robots and a pan-and-tilt laser, buzzer music, tone detection with digital signal processing, and hand-written serial and SPI protocols.</p>
+      <p><a href="https://github.com/jwkunz/VariousArduinoProjects">View on GitHub</a></p>
     </article>
     <article class="gallery-item">
       <div class="gallery-meta">
