@@ -25,6 +25,7 @@ description: Educational resources and course material by Numerius Engineering L
   <div class="gallery-meta">
     <a class="tag" href="#scientific-computing">Scientific computing</a>
     <a class="tag" href="#computing-programming">Computing and programming</a>
+    <a class="tag" href="#fpga-embedded">FPGA and embedded systems</a>
   </div>
 </section>
 
@@ -64,6 +65,26 @@ description: Educational resources and course material by Numerius Engineering L
       <h2><a href="https://github.com/jwkunz/Radiant_Pupils">Radiant Pupils</a></h2>
       <p>A structured class for students in grades 7&ndash;12 covering how computers work, the role of operating systems, how computers are networked, simple Python applications, and scientific computing with Jupyter notebooks. Each numbered lesson pairs theory with a laboratory exercise, with starting-point problems and worked solutions.</p>
       <p><a href="https://github.com/jwkunz/Radiant_Pupils">View the course on GitHub</a></p>
+    </article>
+  </div>
+</section>
+
+<section class="section-block" id="fpga-embedded">
+  <div class="section-heading">
+    <p class="eyebrow">FPGA and Embedded Systems</p>
+    <h2>Programming FPGA SoC designs from Rust, on Linux, bare metal, and an RTOS.</h2>
+  </div>
+  <div class="gallery-grid">
+    <article class="gallery-item">
+      <div class="gallery-meta">
+        <span class="tag">Book</span>
+        <span class="tag">Rust</span>
+        <span class="tag">FPGA SoC</span>
+        <span class="tag">Tutorials</span>
+      </div>
+      <h2><a href="https://jwkunz.github.io/Hardroxide/book/index.html">The Hardroxide Book</a></h2>
+      <p>The guide to Hardroxide, a tool that turns a Vivado hardware export into a typed Rust crate for an FPGA SoC design, as a Rust counterpart to the PYNQ overlay framework. It covers installing and using the tool, choosing between Linux, bare-metal, and RTOS programs, and a series of hands-on tutorials from blinking LEDs to DMA, with reference pages for the generated drivers.</p>
+      <p><a href="https://jwkunz.github.io/Hardroxide/book/index.html">Read the book</a> &middot; <a href="https://github.com/jwkunz/Hardroxide">View Hardroxide on GitHub</a></p>
     </article>
   </div>
 </section>

@@ -105,16 +105,6 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
   <div class="gallery-grid">
     <article class="gallery-item">
       <div class="gallery-meta">
-        <span class="tag">C</span>
-        <span class="tag">Linux kernel</span>
-        <span class="tag">FPGA SoC</span>
-      </div>
-      <h2><a href="https://github.com/jwkunz/pynq-panther">PYNQ Panther</a></h2>
-      <p>A Raspberry Pi-style graphical desktop for the stock PYNQ-Z2: DRM/KMS and ALSA kernel modules, a Rust session, a one-command offline installer, USB input, and a pink-and-black fluxbox theme. No custom bitstream.</p>
-      <p><a href="https://github.com/jwkunz/pynq-panther">View on GitHub</a></p>
-    </article>
-    <article class="gallery-item">
-      <div class="gallery-meta">
         <span class="tag">C++</span>
         <span class="tag">Arduino</span>
         <span class="tag">Embedded</span>
