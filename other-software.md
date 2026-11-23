@@ -94,6 +94,16 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
       <p>A UCI chess engine written in Rust and developed by coaching OpenAI's Codex.</p>
       <p><a href="https://github.com/jwkunz/plum_chess">View on GitHub</a></p>
     </article>
+    <article class="gallery-item">
+      <div class="gallery-meta">
+        <span class="tag">Rust</span>
+        <span class="tag">Audio</span>
+        <span class="tag">WebAssembly</span>
+      </div>
+      <h2><a href="https://github.com/jwkunz/rainbow_harmony">Rainbow Harmony</a></h2>
+      <p>A musical synthesizer and chord player written in Rust. A command-line tool plays notes, chord symbols, and progressions through your audio device, using additive synthesis with configurable harmonics, vibrato, tremolo, and noise. A WebAssembly build powers a browser interface with presets and export, all on a shared core library.</p>
+      <p><a href="https://github.com/jwkunz/rainbow_harmony">View on GitHub</a></p>
+    </article>
   </div>
 </section>
 
