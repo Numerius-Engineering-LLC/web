@@ -69,6 +69,10 @@ description: Consulting-led electronics design, product development, and softwar
       <strong>Software Projects</strong>
       <span>Desktop, mobile, and embedded software beyond the web apps.</span>
     </a>
+    <a class="info-card" href="{{ '/fpga-projects/' | relative_url }}">
+      <strong>FPGA Projects</strong>
+      <span>FPGA and SoC designs, from RTL and high-level synthesis to the software that drives them.</span>
+    </a>
     <a class="info-card" href="{{ '/about/' | relative_url }}">
       <strong>About</strong>
       <span>Background, working style, and what it means to hire Numerius Engineering.</span>

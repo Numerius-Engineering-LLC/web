@@ -12,19 +12,9 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
 <section class="section-block">
   <div class="section-heading">
     <p class="eyebrow">Rust</p>
-    <h2>Libraries, radio and networking tools, games, and FPGA tooling.</h2>
+    <h2>Libraries, radio and networking tools, and games.</h2>
   </div>
   <div class="gallery-grid">
-    <article class="gallery-item">
-      <div class="gallery-meta">
-        <span class="tag">Rust</span>
-        <span class="tag">FPGA</span>
-        <span class="tag">SoC</span>
-      </div>
-      <h2><a href="https://github.com/jwkunz/Hardroxide">Hardroxide</a></h2>
-      <p>A Rust HAL generator for AMD FPGA SoC designs, comparable to the Pynq framework.</p>
-      <p><a href="https://github.com/jwkunz/Hardroxide">View on GitHub</a></p>
-    </article>
     <article class="gallery-item">
       <div class="gallery-meta">
         <span class="tag">Rust</span>
