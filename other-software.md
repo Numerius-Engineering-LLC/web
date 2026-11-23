@@ -102,7 +102,7 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
       </div>
       <h2><a href="https://github.com/jwkunz/rainbow_harmony">Rainbow Harmony</a></h2>
       <p>A musical synthesizer and chord player written in Rust. A command-line tool plays notes, chord symbols, and progressions through your audio device, using additive synthesis with configurable harmonics, vibrato, tremolo, and noise. A WebAssembly build powers a browser interface with presets and export, all on a shared core library.</p>
-      <p><a href="https://github.com/jwkunz/rainbow_harmony">View on GitHub</a></p>
+      <p><a href="https://github.com/jwkunz/rainbow_harmony">View on GitHub</a> &middot; <a href="https://crates.io/crates/rainbow_harmony">Install from crates.io</a></p>
     </article>
   </div>
 </section>
