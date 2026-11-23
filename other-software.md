@@ -126,16 +126,6 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
     <article class="gallery-item">
       <div class="gallery-meta">
         <span class="tag">C++</span>
-        <span class="tag">Hardware</span>
-        <span class="tag">3D printing</span>
-      </div>
-      <h2><a href="https://github.com/jwkunz/Spritely_Bullfrog">Spritely Bullfrog</a></h2>
-      <p>A four-person buzzer game with hardware design files and code, built to teach teenagers soldering, 3D printing, and C++.</p>
-      <p><a href="https://github.com/jwkunz/Spritely_Bullfrog">View on GitHub</a></p>
-    </article>
-    <article class="gallery-item">
-      <div class="gallery-meta">
-        <span class="tag">C++</span>
         <span class="tag">Education</span>
         <span class="tag">Hardware</span>
       </div>

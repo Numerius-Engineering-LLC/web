@@ -27,6 +27,9 @@ description: A project gallery for past work, prototypes, and build documentatio
       {% endif %}
       <h2><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
       <p>{{ project.description }}</p>
+      {% if project.external_url %}
+        <p><a href="{{ project.external_url }}">{{ project.external_label | default: "Learn more" }}</a></p>
+      {% endif %}
     </article>
   {% endfor %}
 </section>
