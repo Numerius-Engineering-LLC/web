@@ -162,6 +162,16 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
       <p>A local-only Android running tracker with GPS and accelerometer distance, BLE heart-rate monitoring, spoken run announcements, post-run maps and charts, personal records, and shoe-usage tracking. No accounts and no cloud.</p>
       <p><a href="https://github.com/jwkunz/Pace-ometer">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Pace-ometer/releases/latest/download/app-release.apk">Download APK</a></p>
     </article>
+    <article class="gallery-item">
+      <div class="gallery-meta">
+        <span class="tag">Kotlin</span>
+        <span class="tag">Android</span>
+        <span class="tag">SMS</span>
+      </div>
+      <h2><a href="https://github.com/jwkunz/Clan-Cast">Clan Cast</a></h2>
+      <p>A private, on-device Android app for sending personalized SMS broadcasts to family and friends. It builds distribution lists from device contacts, personalizes saved templates, and runs a blocking preflight check before launch. Messages then go out one at a time with pause, resume, and cancel, and each broadcast is kept as a snapshot with per-recipient history. No accounts and no cloud.</p>
+      <p><a href="https://github.com/jwkunz/Clan-Cast">View on GitHub</a></p>
+    </article>
   </div>
 </section>
 
