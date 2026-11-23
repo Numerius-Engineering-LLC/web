@@ -11,6 +11,18 @@ description: Gateway for browser-based applications and software tools developed
 
 <section class="gallery-grid">
   <article class="gallery-item">
+    <img class="gallery-image" src="{{ '/assets/portfolio/web-calculators/web-calculators-screenshot.png' | relative_url }}" alt="Web Calculators landing page listing the Discrete Time Fourier Transform Viewer and the Plot and Integration Calculator">
+    <div class="gallery-meta">
+      <span class="tag">Web app</span>
+      <span class="tag">Math</span>
+      <span class="tag">Calculators</span>
+    </div>
+    <h2><a href="https://jwkunz.github.io/web_calculators/">Web Calculators</a></h2>
+    <p>A growing collection of small calculators and viewers that run entirely in the browser, hosted on its own GitHub Pages site. It currently includes a function plotter with numerical integration and a discrete-time Fourier transform viewer.</p>
+    <p><a href="https://github.com/jwkunz/web_calculators">View on GitHub</a></p>
+  </article>
+
+  <article class="gallery-item">
     <img class="gallery-image" src="{{ '/assets/portfolio/stratego/stratego-screenshot.png' | relative_url }}" alt="Stratego setup screen showing the board and army tray">
     <div class="gallery-meta">
       <span class="tag">Web app</span>
