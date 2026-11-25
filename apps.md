@@ -140,11 +140,12 @@ description: Gateway for browser-based applications and software tools developed
     <img class="gallery-image" src="{{ '/assets/portfolio/inspector-blanque/inspector-blanque-logo.png' | relative_url }}" alt="Inspector Blanque overview">
     <div class="gallery-meta">
       <span class="tag">Web app</span>
+      <span class="tag">Android app</span>
       <span class="tag">Chess analysis</span>
-      <span class="tag">Single-file release</span>
     </div>
     <h2><a href="https://jwkunz.github.io/Inspector_Blanque/">Inspector Blanque</a></h2>
-    <p>A browser-based chess position evaluator with local Stockfish analysis, PGN/FEN support, move-quality review, and a portable single-file HTML release.</p>
+    <p>A mobile-first chess position and game analyzer that evaluates positions and grades every move of a PGN with a local Stockfish WebAssembly engine, entirely on your device and offline. It supports PGN and FEN input and a navigable game view, in the browser and as an Android app built from the same page.</p>
+    <p><a href="https://github.com/jwkunz/Inspector_Blanque">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Inspector_Blanque/releases/latest">Android APK (debug build)</a></p>
   </article>
 
   <article class="gallery-item">
