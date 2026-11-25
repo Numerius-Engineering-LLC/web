@@ -84,11 +84,12 @@ description: Gateway for browser-based applications and software tools developed
     <img class="gallery-image" src="{{ '/assets/portfolio/euclids-compass/euclids-compass-screenshot.png' | relative_url }}" alt="Euclid's Compass overview">
     <div class="gallery-meta">
       <span class="tag">Web app</span>
+      <span class="tag">Android app</span>
       <span class="tag">Geometry</span>
-      <span class="tag">Single-file release</span>
     </div>
     <h2><a href="https://jwkunz.github.io/Euclids-Compass/">Euclid's Compass</a></h2>
-    <p>An interactive straightedge-and-compass construction canvas with collapsing and rigid compass modes, layers, length transport, equality checks, and touch support, packaged as a single-file HTML app.</p>
+    <p>An interactive straightedge-and-compass construction canvas with collapsing and rigid compass modes, layers, length transport, equality checks, and touch support. It runs in the browser and as an Android app built from the same single page.</p>
+    <p><a href="https://github.com/jwkunz/Euclids-Compass">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Euclids-Compass/releases/latest">Android APK (debug build)</a></p>
   </article>
 
   <article class="gallery-item">
