@@ -16,7 +16,6 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-  - fetch_app_sources.sh
   - .bundle
   - _drafts
   - _site

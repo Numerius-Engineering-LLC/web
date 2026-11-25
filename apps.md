@@ -41,7 +41,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Board game</span>
       <span class="tag">Single-file release</span>
     </div>
-    <h2><a href="{{ '/apps/stratego.html' | relative_url }}">Stratego</a></h2>
+    <h2><a href="https://jwkunz.github.io/stratego/">Stratego</a></h2>
     <p>A single-player Stratego game against a computer opponent with three difficulty levels, hand-placed or randomized armies, expanded boards up to 20&times;20, and combat animations. It also ships as an offline Android app.</p>
     <p><a href="https://github.com/jwkunz/stratego">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/stratego/releases/latest">Android APK</a></p>
   </article>
@@ -64,7 +64,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Optics</span>
       <span class="tag">Single-file release</span>
     </div>
-    <h2><a href="{{ '/apps/linear_lens_liner.html' | relative_url }}">Linear Lens Liner</a></h2>
+    <h2><a href="https://jwkunz.github.io/Linear_Lens_Liner/">Linear Lens Liner</a></h2>
     <p>A browser-based planar optical design tool with interactive source, lens, and sink layout, paraxial ray tracing, FreeCAD lens export, and a Fourier-optics beam propagation calculation.</p>
   </article>
 
@@ -75,7 +75,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Electromagnetics</span>
       <span class="tag">Single-file release</span>
     </div>
-    <h2><a href="{{ '/apps/violet_mango.html' | relative_url }}">Violet Mango</a></h2>
+    <h2><a href="https://jwkunz.github.io/Violet-Mango/">Violet Mango</a></h2>
     <p>A 2.5D finite-difference time-domain electromagnetic solver that runs entirely in the browser, with drawn or imported CAD geometry, PML boundaries, near-to-far-field patterns, and field visualization.</p>
   </article>
 
@@ -86,7 +86,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Geometry</span>
       <span class="tag">Single-file release</span>
     </div>
-    <h2><a href="{{ '/apps/euclids_compass.html' | relative_url }}">Euclid's Compass</a></h2>
+    <h2><a href="https://jwkunz.github.io/Euclids-Compass/">Euclid's Compass</a></h2>
     <p>An interactive straightedge-and-compass construction canvas with collapsing and rigid compass modes, layers, length transport, equality checks, and touch support, packaged as a single-file HTML app.</p>
   </article>
 
@@ -97,7 +97,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">GNSS / DSP</span>
       <span class="tag">Static web package</span>
     </div>
-    <h2><a href="{{ '/apps/green_olive/gps-sim.html' | relative_url }}">Green Olive</a></h2>
+    <h2><a href="https://jwkunz.github.io/Green_Olive/">Green Olive</a></h2>
     <p>A browser-based GPS sky and signal simulator that shows which satellites are overhead from live almanac data and generates L1 C/A, L2C, and L5 baseband IQ recordings carrying real navigation message content for receiver testing.</p>
   </article>
 
@@ -108,7 +108,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Holiday utility</span>
       <span class="tag">Single-file release</span>
     </div>
-    <h2><a href="{{ '/apps/gift_giver.html' | relative_url }}">Gift Giver</a></h2>
+    <h2><a href="https://jwkunz.github.io/Gift_Giver/">Gift Giver</a></h2>
     <p>A festive Secret Santa gift-exchange generator that shuffles a list of names into a single random circle of giving, so everyone gives once and receives once, with one-click copy of the results.</p>
   </article>
 
@@ -119,7 +119,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Python notebooks</span>
       <span class="tag">Static web package</span>
     </div>
-    <h2><a href="{{ '/apps/py_whole/' | relative_url }}">Py-Whole</a></h2>
+    <h2><a href="https://jwkunz.github.io/py_whole/">Py-Whole</a></h2>
     <p>An offline browser notebook workbench with Pyodide-backed Python execution, project files, package loading, and a static web deployment package split across normal served files.</p>
   </article>
 
@@ -141,7 +141,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Chess analysis</span>
       <span class="tag">Single-file release</span>
     </div>
-    <h2><a href="{{ '/apps/inspector_blanque.html' | relative_url }}">Inspector Blanque</a></h2>
+    <h2><a href="https://jwkunz.github.io/Inspector_Blanque/">Inspector Blanque</a></h2>
     <p>A browser-based chess position evaluator with local Stockfish analysis, PGN/FEN support, move-quality review, and a portable single-file HTML release.</p>
   </article>
 
@@ -152,7 +152,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Productivity</span>
       <span class="tag">Single-file release</span>
     </div>
-    <h2><a href="{{ '/apps/count_it_up_single_file.html' | relative_url }}">Count It Up</a></h2>
+    <h2><a href="https://jwkunz.github.io/count_it_up/">Count It Up</a></h2>
     <p>A browser-based event counter and timestamped logbook with charting, local persistence, CSV import/export, and a portable single-file HTML build.</p>
   </article>
 
@@ -163,7 +163,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Simulation</span>
       <span class="tag">Single-file release</span>
     </div>
-    <h2><a href="{{ '/apps/turbo_guacamole_single_file.html' | relative_url }}">Turbo Guacamole</a></h2>
+    <h2><a href="https://jwkunz.github.io/turbo-guacamole/">Turbo Guacamole</a></h2>
     <p>A beach-themed browser Plinko simulator with adjustable rows, live particle motion, and histogram feedback packaged as a single-file HTML app.</p>
   </article>
 
@@ -174,7 +174,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Rust + WASM</span>
       <span class="tag">Single-file release</span>
     </div>
-    <h2><a href="{{ '/apps/wordle_wizard.html' | relative_url }}">Wordle Wizard</a></h2>
+    <h2><a href="https://jwkunz.github.io/wordle_wizard/">Wordle Wizard</a></h2>
     <p>A browser-based Wordle advisor with a portable single-file build and a responsive solver workflow for live gameplay support.</p>
   </article>
 
@@ -185,7 +185,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Calculator</span>
       <span class="tag">Browser launch</span>
     </div>
-    <h2><a href="{{ '/apps/post_fix_pro.html' | relative_url }}">Post Fix Pro</a></h2>
+    <h2><a href="https://jwkunz.github.io/Post-Fix-Pro/">Post Fix Pro</a></h2>
     <p>A polished calculator experience that can be launched directly in the browser from this app gateway.</p>
   </article>
 </section>
