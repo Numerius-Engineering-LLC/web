@@ -53,7 +53,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">Physics game</span>
       <span class="tag">Single-file release</span>
     </div>
-    <h2><a href="{{ '/apps/gravitated.html' | relative_url }}">Gravitated</a></h2>
+    <h2><a href="https://jwkunz.github.io/Gravitated/">Gravitated</a></h2>
     <p>An N-body gravity simulator with up to 12 configurable bodies, inelastic merging, rotating surfaces, centroid tracking, and a mobile-friendly controls sheet. It also ships as an Android app wrapper.</p>
   </article>
 
@@ -130,7 +130,7 @@ description: Gateway for browser-based applications and software tools developed
       <span class="tag">RF analysis</span>
       <span class="tag">Single-file release</span>
     </div>
-    <h2><a href="{{ '/apps/rf_ranger.html' | relative_url }}">RF Ranger</a></h2>
+    <h2><a href="https://jwkunz.github.io/RF_Ranger/">RF Ranger</a></h2>
     <p>A browser-based RF link analysis and reporting tool with map-driven workflows, persistent local workspaces, export features, and a portable single-file HTML build.</p>
   </article>
 

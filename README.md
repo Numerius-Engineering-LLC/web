@@ -14,6 +14,4 @@ Web App Portfolio page (`apps.md`) links straight to those sites, for example
 To add an app: add a Pages workflow to its repository, enable **Settings > Pages > Source: GitHub
 Actions**, and add a tile to `apps.md`.
 
-The files in `apps/` are small redirect pages from the old addresses. `gravitated.html` and
-`rf_ranger.html` are the exceptions: those two repositories are private, which GitHub Pages does not
-support on this plan, so full copies are kept here.
+The files in `apps/` are small redirect pages from the old addresses.
