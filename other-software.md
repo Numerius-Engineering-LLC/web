@@ -160,7 +160,17 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
       </div>
       <h2><a href="https://github.com/jwkunz/Clan-Cast">Clan Cast</a></h2>
       <p>A private, on-device Android app for sending personalized SMS broadcasts to family and friends. It builds distribution lists from device contacts, personalizes saved templates, and runs a blocking preflight check before launch. Messages then go out one at a time with pause, resume, and cancel, and each broadcast is kept as a snapshot with per-recipient history. No accounts and no cloud.</p>
-      <p><a href="https://github.com/jwkunz/Clan-Cast">View on GitHub</a></p>
+      <p><a href="https://github.com/jwkunz/Clan-Cast">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Clan-Cast/releases/latest">Download APK (debug build)</a></p>
+    </article>
+    <article class="gallery-item">
+      <div class="gallery-meta">
+        <span class="tag">Kotlin</span>
+        <span class="tag">Android</span>
+        <span class="tag">Jetpack Compose</span>
+      </div>
+      <h2><a href="https://github.com/jwkunz/Scripture-Suprise">Scripture Surprise</a></h2>
+      <p>An Android app that shows a surprise scripture verse. Filters let you choose which volumes, books, and chapters can appear, and a Read in Context button opens the passage. Verses are kept in a local database, and the app is built with Kotlin, Jetpack Compose, Room, DataStore, and Hilt.</p>
+      <p><a href="https://github.com/jwkunz/Scripture-Suprise">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Scripture-Suprise/releases/latest">Download APK (debug build)</a></p>
     </article>
   </div>
 </section>
