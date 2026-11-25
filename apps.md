@@ -181,11 +181,12 @@ description: Gateway for browser-based applications and software tools developed
   <article class="gallery-item">
     <img class="gallery-image" src="{{ '/assets/portfolio/post-fix-pro/cover-overview.png' | relative_url }}" alt="Post Fix Pro overview">
     <div class="gallery-meta">
-      <span class="tag">Mobile app</span>
+      <span class="tag">Web app</span>
+      <span class="tag">Android app</span>
       <span class="tag">Calculator</span>
-      <span class="tag">Browser launch</span>
     </div>
     <h2><a href="https://jwkunz.github.io/Post-Fix-Pro/">Post Fix Pro</a></h2>
-    <p>A polished calculator experience that can be launched directly in the browser from this app gateway.</p>
+    <p>A Reverse Polish Notation calculator with scalar, complex, matrix, statistics, and memory tools and a small scripting language. A Rust engine compiled to WebAssembly runs behind a responsive dark-mode interface, in the browser and as an Android app built from the same code.</p>
+    <p><a href="https://github.com/jwkunz/Post-Fix-Pro">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Post-Fix-Pro/releases/latest">Android APK (debug build)</a></p>
   </article>
 </section>
