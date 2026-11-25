@@ -151,11 +151,12 @@ description: Gateway for browser-based applications and software tools developed
     <img class="gallery-image" src="{{ '/assets/portfolio/count-it-up/count-it-up-screenshot.png' | relative_url }}" alt="Count It Up overview">
     <div class="gallery-meta">
       <span class="tag">Web app</span>
+      <span class="tag">Android app</span>
       <span class="tag">Productivity</span>
-      <span class="tag">Single-file release</span>
     </div>
     <h2><a href="https://jwkunz.github.io/count_it_up/">Count It Up</a></h2>
-    <p>A browser-based event counter and timestamped logbook with charting, local persistence, CSV import/export, and a portable single-file HTML build.</p>
+    <p>An event counter and timestamped logbook with charting, local persistence, and CSV import/export. It runs entirely on your device, works offline, and is available in the browser and as an Android app built from the same page.</p>
+    <p><a href="https://github.com/jwkunz/count_it_up">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/count_it_up/releases/latest">Android APK (debug build)</a></p>
   </article>
 
   <article class="gallery-item">
