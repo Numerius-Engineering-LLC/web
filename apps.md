@@ -11,6 +11,18 @@ description: Gateway for browser-based applications and software tools developed
 
 <section class="gallery-grid">
   <article class="gallery-item">
+    <img class="gallery-image" src="{{ '/assets/portfolio/hungry-hopper/hungry-hopper-screenshot.png' | relative_url }}" alt="Hungry Hopper title screen: a frog in a swamp with a mosquito and a beetle nearby, and on-screen touch controls">
+    <div class="gallery-meta">
+      <span class="tag">Web app</span>
+      <span class="tag">Platformer</span>
+      <span class="tag">Touch controls</span>
+    </div>
+    <h2><a href="https://jwkunz.github.io/hungry_hopper/">Hungry Hopper</a></h2>
+    <p>A swamp platformer made by the Kunzler family. You are a frog: hop, aim your tongue, and eat or stomp a bestiary of bugs and critters, swim through ponds, cut through briars, and reach the flag. It plays with the keyboard or on-screen touch buttons and runs entirely in the browser.</p>
+    <p><a href="https://github.com/jwkunz/hungry_hopper">View on GitHub</a></p>
+  </article>
+
+  <article class="gallery-item">
     <img class="gallery-image" src="{{ '/assets/portfolio/web-calculators/web-calculators-screenshot.png' | relative_url }}" alt="Web Calculators landing page listing the Discrete Time Fourier Transform Viewer and the Plot and Integration Calculator">
     <div class="gallery-meta">
       <span class="tag">Web app</span>
