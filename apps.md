@@ -11,6 +11,18 @@ description: Gateway for browser-based applications and software tools developed
 
 <section class="gallery-grid">
   <article class="gallery-item">
+    <img class="gallery-image" src="{{ '/assets/portfolio/post-fix-pro/cover-overview.png' | relative_url }}" alt="Post Fix Pro overview">
+    <div class="gallery-meta">
+      <span class="tag">Web app</span>
+      <span class="tag">Android app</span>
+      <span class="tag">Calculator</span>
+    </div>
+    <h2><a href="https://jwkunz.github.io/Post-Fix-Pro/">Post Fix Pro</a></h2>
+    <p>A Reverse Polish Notation calculator with scalar, complex, matrix, statistics, and memory tools and a small scripting language. A Rust engine compiled to WebAssembly runs behind a responsive dark-mode interface, in the browser and as an Android app built from the same code.</p>
+    <p><a href="https://github.com/jwkunz/Post-Fix-Pro">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Post-Fix-Pro/releases/latest">Android APK (debug build)</a></p>
+  </article>
+
+  <article class="gallery-item">
     <img class="gallery-image" src="{{ '/assets/portfolio/construction-calc/construction-calc-screenshot.png' | relative_url }}" alt="Construction Calc: an expression field, a result field, and a fractional precision setting">
     <div class="gallery-meta">
       <span class="tag">Web app</span>
@@ -192,17 +204,5 @@ description: Gateway for browser-based applications and software tools developed
     </div>
     <h2><a href="https://jwkunz.github.io/wordle_wizard/">Wordle Wizard</a></h2>
     <p>A browser-based Wordle advisor with a portable single-file build and a responsive solver workflow for live gameplay support.</p>
-  </article>
-
-  <article class="gallery-item">
-    <img class="gallery-image" src="{{ '/assets/portfolio/post-fix-pro/cover-overview.png' | relative_url }}" alt="Post Fix Pro overview">
-    <div class="gallery-meta">
-      <span class="tag">Web app</span>
-      <span class="tag">Android app</span>
-      <span class="tag">Calculator</span>
-    </div>
-    <h2><a href="https://jwkunz.github.io/Post-Fix-Pro/">Post Fix Pro</a></h2>
-    <p>A Reverse Polish Notation calculator with scalar, complex, matrix, statistics, and memory tools and a small scripting language. A Rust engine compiled to WebAssembly runs behind a responsive dark-mode interface, in the browser and as an Android app built from the same code.</p>
-    <p><a href="https://github.com/jwkunz/Post-Fix-Pro">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Post-Fix-Pro/releases/latest">Android APK (debug build)</a></p>
   </article>
 </section>
