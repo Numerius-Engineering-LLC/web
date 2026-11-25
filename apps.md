@@ -11,6 +11,18 @@ description: Gateway for browser-based applications and software tools developed
 
 <section class="gallery-grid">
   <article class="gallery-item">
+    <img class="gallery-image" src="{{ '/assets/portfolio/construction-calc/construction-calc-screenshot.png' | relative_url }}" alt="Construction Calc: an expression field, a result field, and a fractional precision setting">
+    <div class="gallery-meta">
+      <span class="tag">Web app</span>
+      <span class="tag">Android app</span>
+      <span class="tag">Calculator</span>
+    </div>
+    <h2><a href="https://jwkunz.github.io/Construction_Calc/">Construction Calc</a></h2>
+    <p>An imperial measurement calculator for construction work that handles decimals, whole numbers, and mixed fractions, with a selectable fractional precision. It runs entirely on your device, works offline, and is available in the browser and as an Android app built from the same page.</p>
+    <p><a href="https://github.com/jwkunz/Construction_Calc">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Construction_Calc/releases/latest">Android APK (debug build)</a></p>
+  </article>
+
+  <article class="gallery-item">
     <img class="gallery-image" src="{{ '/assets/portfolio/hungry-hopper/hungry-hopper-screenshot.png' | relative_url }}" alt="Hungry Hopper title screen: a frog in a swamp with a mosquito and a beetle nearby, and on-screen touch controls">
     <div class="gallery-meta">
       <span class="tag">Web app</span>
