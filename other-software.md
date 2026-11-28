@@ -27,12 +27,13 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
     <article class="gallery-item">
       <div class="gallery-meta">
         <span class="tag">Rust</span>
+        <span class="tag">Web app</span>
+        <span class="tag">Android app</span>
         <span class="tag">SDR</span>
-        <span class="tag">WebRTC</span>
       </div>
       <h2><a href="https://github.com/jwkunz/LANline">LANline</a></h2>
-      <p>LAN-native SDR command and control: a Rust server owns a SoapySDR radio and serves a REST API, a browser client, and a WebRTC audio stream, with receive, push-to-talk transmit, and ADS-B/AIS trackers.</p>
-      <p><a href="https://github.com/jwkunz/LANline">View on GitHub</a></p>
+      <p>LAN-native software-defined radio. A Rust server owns an SDR and puts it on your network, and you connect from a web browser or the Android app to listen to broadcast, weather, and amateur radio, track aircraft, ships, and APRS stations, watch a live waterfall, and work with slow-scan TV pictures. Transmitting is off by default and intended for licensed operators, and a REST API exposes the same features to your own programs. Releases include the Android app and server builds for Linux, Windows, and macOS.</p>
+      <p><a href="https://github.com/jwkunz/LANline">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/LANline/releases/latest">Android APK (debug build)</a> &middot; <a href="https://jwkunz.github.io/LANline/">Read the book</a></p>
     </article>
     <article class="gallery-item">
       <div class="gallery-meta">
