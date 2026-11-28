@@ -51,8 +51,8 @@ description: Gateway for browser-based applications and software tools developed
       <img class="gallery-image" src="{{ '/assets/portfolio/stratego/stratego-screenshot.png' | relative_url }}" alt="Stratego setup screen showing the board and army tray">
       <div class="gallery-meta">
         <span class="tag">Web app</span>
+        <span class="tag">Android app</span>
         <span class="tag">Board game</span>
-        <span class="tag">Single-file release</span>
       </div>
       <h2><a href="https://jwkunz.github.io/stratego/">Stratego</a></h2>
       <p>A single-player Stratego game against a computer opponent with three difficulty levels, hand-placed or randomized armies, expanded boards up to 20&times;20, and combat animations. It also ships as an offline Android app.</p>
