@@ -39,12 +39,12 @@ description: Gateway for browser-based applications and software tools developed
       <img class="gallery-image" src="{{ '/assets/portfolio/hungry-hopper/hungry-hopper-screenshot.png' | relative_url }}" alt="Hungry Hopper title screen: a frog in a swamp with a mosquito and a beetle nearby, and on-screen touch controls">
       <div class="gallery-meta">
         <span class="tag">Web app</span>
+        <span class="tag">Android app</span>
         <span class="tag">Platformer</span>
-        <span class="tag">Touch controls</span>
       </div>
       <h2><a href="https://jwkunz.github.io/hungry_hopper/">Hungry Hopper</a></h2>
-      <p>A swamp platformer made by the Kunzler family. You are a frog: hop, aim your tongue, and eat or stomp a bestiary of bugs and critters, swim through ponds, cut through briars, and reach the flag. It plays with the keyboard or on-screen touch buttons and runs entirely in the browser.</p>
-      <p><a href="https://github.com/jwkunz/hungry_hopper">View on GitHub</a></p>
+      <p>A swamp platformer made by the Kunzler family. You are a frog: hop, aim your tongue, and eat or stomp a bestiary of bugs and critters, swim through ponds, cut through briars, and reach the flag. It plays with the keyboard or on-screen touch buttons, in the browser and as an Android app built from the same code.</p>
+      <p><a href="https://github.com/jwkunz/hungry_hopper">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/hungry_hopper/releases/latest">Android APK</a></p>
     </article>
 
     <article class="gallery-item">

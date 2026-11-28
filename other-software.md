@@ -151,7 +151,7 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
       </div>
       <h2><a href="https://github.com/jwkunz/Pace-ometer">Pace-ometer</a></h2>
       <p>A local-only Android running tracker with GPS and accelerometer distance, BLE heart-rate monitoring, spoken run announcements, post-run maps and charts, personal records, and shoe-usage tracking. No accounts and no cloud.</p>
-      <p><a href="https://github.com/jwkunz/Pace-ometer">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Pace-ometer/releases/latest/download/app-release.apk">Download APK</a></p>
+      <p><a href="https://github.com/jwkunz/Pace-ometer">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Pace-ometer/releases/latest">Download APK</a></p>
     </article>
     <article class="gallery-item">
       <div class="gallery-meta">
