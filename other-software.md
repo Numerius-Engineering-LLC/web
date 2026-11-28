@@ -33,7 +33,7 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
       </div>
       <h2><a href="https://github.com/jwkunz/LANline">LANline</a></h2>
       <p>LAN-native software-defined radio. A Rust server owns an SDR and puts it on your network, and you connect from a web browser or the Android app to listen to broadcast, weather, and amateur radio, track aircraft, ships, and APRS stations, watch a live waterfall, and work with slow-scan TV pictures. Transmitting is off by default and intended for licensed operators, and a REST API exposes the same features to your own programs. Releases include the Android app and server builds for Linux, Windows, and macOS.</p>
-      <p><a href="https://github.com/jwkunz/LANline">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/LANline/releases/latest">Android APK (debug build)</a> &middot; <a href="https://jwkunz.github.io/LANline/">Read the book</a></p>
+      <p><a href="https://github.com/jwkunz/LANline">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/LANline/releases/latest">Android APK</a> &middot; <a href="https://jwkunz.github.io/LANline/">Read the book</a></p>
     </article>
     <article class="gallery-item">
       <div class="gallery-meta">
@@ -161,7 +161,7 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
       </div>
       <h2><a href="https://github.com/jwkunz/Clan-Cast">Clan Cast</a></h2>
       <p>A private, on-device Android app for sending personalized SMS broadcasts to family and friends. It builds distribution lists from device contacts, personalizes saved templates, and runs a blocking preflight check before launch. Messages then go out one at a time with pause, resume, and cancel, and each broadcast is kept as a snapshot with per-recipient history. No accounts and no cloud.</p>
-      <p><a href="https://github.com/jwkunz/Clan-Cast">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Clan-Cast/releases/latest">Download APK (debug build)</a></p>
+      <p><a href="https://github.com/jwkunz/Clan-Cast">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Clan-Cast/releases/latest">Download APK</a></p>
     </article>
     <article class="gallery-item">
       <div class="gallery-meta">
@@ -171,7 +171,7 @@ description: Software projects by Numerius Engineering LLC beyond the browser-ba
       </div>
       <h2><a href="https://github.com/jwkunz/Scripture-Suprise">Scripture Surprise</a></h2>
       <p>An Android app that shows a surprise scripture verse. Filters let you choose which volumes, books, and chapters can appear, and a Read in Context button opens the passage. Verses are kept in a local database, and the app is built with Kotlin, Jetpack Compose, Room, DataStore, and Hilt.</p>
-      <p><a href="https://github.com/jwkunz/Scripture-Suprise">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Scripture-Suprise/releases/latest">Download APK (debug build)</a></p>
+      <p><a href="https://github.com/jwkunz/Scripture-Suprise">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Scripture-Suprise/releases/latest">Download APK</a></p>
     </article>
   </div>
 </section>

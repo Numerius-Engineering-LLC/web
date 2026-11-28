@@ -79,7 +79,7 @@ description: Gateway for browser-based applications and software tools developed
       </div>
       <h2><a href="https://jwkunz.github.io/Inspector_Blanque/">Inspector Blanque</a></h2>
       <p>A mobile-first chess position and game analyzer that evaluates positions and grades every move of a PGN with a local Stockfish WebAssembly engine, entirely on your device and offline. It supports PGN and FEN input and a navigable game view, in the browser and as an Android app built from the same page.</p>
-      <p><a href="https://github.com/jwkunz/Inspector_Blanque">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Inspector_Blanque/releases/latest">Android APK (debug build)</a></p>
+      <p><a href="https://github.com/jwkunz/Inspector_Blanque">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Inspector_Blanque/releases/latest">Android APK</a></p>
     </article>
   </div>
 </section>
@@ -99,7 +99,7 @@ description: Gateway for browser-based applications and software tools developed
       </div>
       <h2><a href="https://jwkunz.github.io/Post-Fix-Pro/">Post Fix Pro</a></h2>
       <p>A Reverse Polish Notation calculator with scalar, complex, matrix, statistics, and memory tools and a small scripting language. A Rust engine compiled to WebAssembly runs behind a responsive dark-mode interface, in the browser and as an Android app built from the same code.</p>
-      <p><a href="https://github.com/jwkunz/Post-Fix-Pro">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Post-Fix-Pro/releases/latest">Android APK (debug build)</a></p>
+      <p><a href="https://github.com/jwkunz/Post-Fix-Pro">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Post-Fix-Pro/releases/latest">Android APK</a></p>
     </article>
 
     <article class="gallery-item">
@@ -111,7 +111,7 @@ description: Gateway for browser-based applications and software tools developed
       </div>
       <h2><a href="https://jwkunz.github.io/Construction_Calc/">Construction Calc</a></h2>
       <p>An imperial measurement calculator for construction work that handles decimals, whole numbers, and mixed fractions, with a selectable fractional precision. It runs entirely on your device, works offline, and is available in the browser and as an Android app built from the same page.</p>
-      <p><a href="https://github.com/jwkunz/Construction_Calc">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Construction_Calc/releases/latest">Android APK (debug build)</a></p>
+      <p><a href="https://github.com/jwkunz/Construction_Calc">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Construction_Calc/releases/latest">Android APK</a></p>
     </article>
 
     <article class="gallery-item">
@@ -143,7 +143,7 @@ description: Gateway for browser-based applications and software tools developed
       </div>
       <h2><a href="https://jwkunz.github.io/Gravitated/">Gravitated</a></h2>
       <p>An N-body gravity simulator with up to 12 configurable bodies, inelastic merging, rotating surfaces, centroid tracking, and a mobile-friendly controls sheet. It runs in the browser and as an Android app built from the same single page.</p>
-      <p><a href="https://github.com/jwkunz/Gravitated">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Gravitated/releases/latest">Android APK (debug build)</a></p>
+      <p><a href="https://github.com/jwkunz/Gravitated">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Gravitated/releases/latest">Android APK</a></p>
     </article>
 
     <article class="gallery-item">
@@ -218,7 +218,7 @@ description: Gateway for browser-based applications and software tools developed
       </div>
       <h2><a href="https://jwkunz.github.io/count_it_up/">Count It Up</a></h2>
       <p>An event counter and timestamped logbook with charting, local persistence, and CSV import/export. It runs entirely on your device, works offline, and is available in the browser and as an Android app built from the same page.</p>
-      <p><a href="https://github.com/jwkunz/count_it_up">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/count_it_up/releases/latest">Android APK (debug build)</a></p>
+      <p><a href="https://github.com/jwkunz/count_it_up">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/count_it_up/releases/latest">Android APK</a></p>
     </article>
 
     <article class="gallery-item">
@@ -241,7 +241,7 @@ description: Gateway for browser-based applications and software tools developed
       </div>
       <h2><a href="https://jwkunz.github.io/Euclids-Compass/">Euclid's Compass</a></h2>
       <p>An interactive straightedge-and-compass construction canvas with collapsing and rigid compass modes, layers, length transport, equality checks, and touch support. It runs in the browser and as an Android app built from the same single page.</p>
-      <p><a href="https://github.com/jwkunz/Euclids-Compass">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Euclids-Compass/releases/latest">Android APK (debug build)</a></p>
+      <p><a href="https://github.com/jwkunz/Euclids-Compass">View on GitHub</a> &middot; <a href="https://github.com/jwkunz/Euclids-Compass/releases/latest">Android APK</a></p>
     </article>
 
     <article class="gallery-item">
