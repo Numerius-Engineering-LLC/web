@@ -26,6 +26,7 @@ description: Educational resources and course material by Numerius Engineering L
     <a class="tag" href="#scientific-computing">Scientific computing</a>
     <a class="tag" href="#computing-programming">Computing and programming</a>
     <a class="tag" href="#fpga-embedded">FPGA and embedded systems</a>
+    <a class="tag" href="#radio-signals">Radio and signals</a>
   </div>
 </section>
 
@@ -85,6 +86,26 @@ description: Educational resources and course material by Numerius Engineering L
       <h2><a href="https://jwkunz.github.io/Hardroxide/book/index.html">The Hardroxide Book</a></h2>
       <p>The guide to Hardroxide, a tool that turns a Vivado hardware export into a typed Rust crate for an FPGA SoC design, as a Rust counterpart to the PYNQ overlay framework. It covers installing and using the tool, choosing between Linux, bare-metal, and RTOS programs, and a series of hands-on tutorials from blinking LEDs to DMA, with reference pages for the generated drivers.</p>
       <p><a href="https://jwkunz.github.io/Hardroxide/book/index.html">Read the book</a> &middot; <a href="https://github.com/jwkunz/Hardroxide">View Hardroxide on GitHub</a></p>
+    </article>
+  </div>
+</section>
+
+<section class="section-block" id="radio-signals">
+  <div class="section-heading">
+    <p class="eyebrow">Radio and Signals</p>
+    <h2>Software-defined radio: how signals work, and how to receive and program them.</h2>
+  </div>
+  <div class="gallery-grid">
+    <article class="gallery-item">
+      <div class="gallery-meta">
+        <span class="tag">Book</span>
+        <span class="tag">SDR</span>
+        <span class="tag">Radio primer</span>
+        <span class="tag">Python</span>
+      </div>
+      <h2><a href="https://jwkunz.github.io/LANline/">The LANline Book</a></h2>
+      <p>The guide to LANline, with no engineering background assumed. It covers installing the server and Android app, receiving a first signal, and writing short Python programs against the radio's API, then suggests projects to build. A radio primer explains waves, antennas, modulation, software-defined radio, networking, and the voice, data, and picture signals involved. A demo build lets you start without a radio.</p>
+      <p><a href="https://jwkunz.github.io/LANline/">Read the book</a> &middot; <a href="https://github.com/jwkunz/LANline">View LANline on GitHub</a></p>
     </article>
   </div>
 </section>
